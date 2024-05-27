@@ -1,0 +1,25 @@
+{
+  "name": "@dral/binary-protocol",
+  "version": "1.0.0",
+  "description": "",
+  "exports": {
+    "./Protocol": "./src/Protocol.ts",
+    "./string": "./src/string.ts",
+    "./varint": "./src/varint.ts",
+    "./with_varint_length": "./src/with_varint_length.ts",
+    "./WithVarintLengthTransformStream": "./src/WithVarintLengthTransformStream.ts"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "Michiel Dral <m.c.dral@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240512.0",
+    "@types/lodash-es": "^4.17.12",
+    "@types/varint": "^6.0.3"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "varint": "^6.0.0"
+  }
+}

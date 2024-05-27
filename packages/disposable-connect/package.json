@@ -1,0 +1,14 @@
+{
+  "name": "@dral/disposable-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "disposable-connect.ts",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "Michiel Dral <m.c.dral@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240512.0"
+  }
+}
