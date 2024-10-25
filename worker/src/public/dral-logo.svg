@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="493px" height="243px" viewBox="0 0 493 243" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="493" height="243"></rect>
+    </defs>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Rectangle"></g>
+        <g id="Group" mask="url(#mask-2)">
+            <g transform="translate(-0.5, 0)">
+                <rect id="Rectangle" stroke="#000000" stroke-width="20" fill="none" x="209.5" y="10" width="274" height="112"></rect>
+                <rect id="Rectangle" stroke="#000000" stroke-width="20" fill="none" x="10.5" y="10" width="473" height="223"></rect>
+                <path d="M0,97.5 C24.0549849,82.1071077 43.9075905,66.4042086 59.5578168,50.3913025 C75.2080431,34.3783965 84.5221042,20.9146289 87.5,10" id="Line" stroke="#000000" stroke-width="20" fill="none" stroke-linecap="square"></path>
+                <path d="M55.5,118.000463 C78.4830301,106.482902 99.5751415,90.3160814 118.776334,69.5 C137.977527,48.6839186 152.052082,29.6839186 161,12.5" id="Line" stroke="#000000" stroke-width="20" fill="none" stroke-linecap="square"></path>
+                <path d="M140,124 C153.647054,116.378196 166.480473,106.406802 178.500257,94.0858193 C190.520042,81.7648364 199.512019,69.73623 205.47619,58" id="Line" stroke="#000000" stroke-width="20" fill="none" stroke-linecap="square"></path>
+                <g id="Group-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(382, 181.5) scale(1, -1) translate(-382, -181.5)translate(282, 127.75)" stroke-linecap="square">
+                    <line x1="0.5" y1="87.5" x2="88" y2="-3.05311332e-16" id="Line" stroke="#000000" stroke-width="20"></line>
+                    <line x1="63" y1="107" x2="168.5" y2="1.5" id="Line" stroke="#000000" stroke-width="20"></line>
+                    <line x1="146.5" y1="107.25" x2="200" y2="53.75" id="Line" stroke="#000000" stroke-width="20"></line>
+                </g>
+                <line x1="87" y1="233.5" x2="139" y2="182.5" id="Line" stroke="#000000" stroke-width="20" fill="none" stroke-linecap="square"></line>
+                <line x1="80" y1="123.5" x2="137" y2="180.5" id="Line" stroke="#000000" stroke-width="20" fill="none" stroke-linecap="square"></line>
+                <line x1="19" y1="233.25" x2="69" y2="180.5" id="Line" stroke="#000000" stroke-width="20" fill="none" stroke-linecap="square"></line>
+                <line x1="12" y1="123.5" x2="69" y2="180.5" id="Line" stroke="#000000" stroke-width="20" fill="none" stroke-linecap="square"></line>
+                <line x1="11.5" y1="122" x2="220.5" y2="122" id="Line" stroke="#000000" stroke-width="20" fill="none" stroke-linecap="square"></line>
+                <line x1="484.5" y1="224" x2="484.5" y2="121" id="Line" stroke="#000000" stroke-width="20" fill="none" stroke-linecap="square"></line>
+                <line x1="12" y1="123.5" x2="69" y2="180.5" id="Line" stroke="#000000" stroke-width="20" fill="none" stroke-linecap="square"></line>
+                <g id="DRAL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(237.06, 40)">
+                    <path d="M0,56 L0,0 L27.6,0 C33.84,0 39.3333333,1.13333333 44.08,3.4 C48.8266667,5.66666667 52.5333333,8.88 55.2,13.04 C57.8666667,17.2 59.2,22.1733333 59.2,27.96 C59.2,33.7466667 57.8666667,38.7333333 55.2,42.92 C52.5333333,47.1066667 48.8266667,50.3333333 44.08,52.6 C39.3333333,54.8666667 33.84,56 27.6,56 L0,56 Z M18.88,41.28 L26.8,41.28 C29.4916667,41.28 31.83125,40.7733333 33.81875,39.76 C35.80625,38.7466667 37.36,37.24 38.48,35.24 C39.6,33.24 40.16,30.8133333 40.16,27.96 C40.16,25.1066667 39.6,22.6933333 38.48,20.72 C37.36,18.7466667 35.80625,17.2533333 33.81875,16.24 C31.83125,15.2266667 29.4916667,14.72 26.8,14.72 L18.88,14.72 L18.88,41.28 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M63.0983332,56 L63.0983332,0 L90.0583332,0 C95.2849998,0 99.8049998,0.853333333 103.618333,2.56 C107.431667,4.26666667 110.378333,6.70666667 112.458333,9.88 C114.538333,13.0533333 115.578333,16.8 115.578333,21.12 C115.578333,25.44 114.538333,29.16 112.458333,32.28 C110.378333,35.4 107.431667,37.7866667 103.618333,39.44 C99.8049998,41.0933333 95.2849998,41.92 90.0583332,41.92 L73.5783332,41.92 L81.9783332,34.16 L81.9783332,56 L63.0983332,56 Z M96.6183332,56 L82.8583332,35.6 L102.858333,35.6 L116.778333,56 L96.6183332,56 Z M81.9783332,36.24 L73.5783332,27.68 L88.8583332,27.68 C91.4716665,27.68 93.4049998,27.0933333 94.6583332,25.92 C95.9116665,24.7466667 96.5383332,23.1466667 96.5383332,21.12 C96.5383332,19.0933333 95.9116665,17.4933333 94.6583332,16.32 C93.4049998,15.1466667 91.4716665,14.56 88.8583332,14.56 L73.5783332,14.56 L81.9783332,6 L81.9783332,36.24 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M113.636666,56 L138.116666,0 L156.676666,0 L181.156666,56 L161.636666,56 L143.556666,8.96 L150.916666,8.96 L132.836666,56 L113.636666,56 Z M128.196666,46.24 L132.996666,32.64 L158.756666,32.64 L163.556666,46.24 L128.196666,46.24 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#000000" fill-rule="nonzero" points="183.662058 56 183.662058 0 202.542058 0 202.542058 41.36 227.822058 41.36 227.822058 56"></polygon>
+                </g>
+                <rect id="Rectangle" stroke="none" fill="#000000" fill-rule="evenodd" x="14.5" y="121" width="289" height="115"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

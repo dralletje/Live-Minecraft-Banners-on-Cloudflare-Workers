@@ -27,6 +27,8 @@ let assets = {
   "/dirt.webp": async_file(import("./public/dirt.webp"), "dirt.webp", { type: "image/webp" }),
   // prettier-ignore
   "/dirt-dark.webp": async_file(import("./public/dirt-dark.webp"), "dirt.webp", { type: "image/webp" }),
+  // prettier-ignore
+  "/dral-logo.svg": async_file(import("./public/dral-logo.svg"), "dral-logo.svg", { type: "image/svg+xml" }),
 };
 
 export default {
@@ -39,8 +41,9 @@ export default {
 
     if (url.pathname in assets) {
       let file = await assets[url.pathname];
+
       return new Response(file, {
-        headers: { "content-type": assets[url.pathname].type },
+        headers: { "content-type": file.type },
       });
     } else if (url.pathname === "/banner.svg") {
       let host = url.searchParams.get("host");

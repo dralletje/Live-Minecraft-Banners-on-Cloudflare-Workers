@@ -9,5 +9,6 @@ rules = [
   { type = "Data", globs = ["**/*.woff"], fallthrough = true },
   { type = "Data", globs = ["**/*.woff2"], fallthrough = true },
   { type = "Data", globs = ["**/*.webp"], fallthrough = true },
+  { type = "Data", globs = ["**/*.svg"], fallthrough = true },
   { type = "Text", globs = ["**/*.html"], fallthrough = true }
 ]
